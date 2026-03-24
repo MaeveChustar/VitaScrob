@@ -1,0 +1,5 @@
+cd ~/Vitascrob/music_logger_plugin
+mkdir -p build
+cd build
+cmake .. -DCMAKE_TOOLCHAIN_FILE=$VITASDK/share/vita.toolchain.cmake
+make

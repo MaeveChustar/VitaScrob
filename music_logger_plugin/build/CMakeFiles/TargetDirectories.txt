@@ -1,0 +1,5 @@
+/home/slowb/Vitascrob/music_logger_plugin/build/CMakeFiles/vitascrob.dir
+/home/slowb/Vitascrob/music_logger_plugin/build/CMakeFiles/vitascrob-velf.dir
+/home/slowb/Vitascrob/music_logger_plugin/build/CMakeFiles/vitascrob.suprx-self.dir
+/home/slowb/Vitascrob/music_logger_plugin/build/CMakeFiles/edit_cache.dir
+/home/slowb/Vitascrob/music_logger_plugin/build/CMakeFiles/rebuild_cache.dir
