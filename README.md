@@ -1,6 +1,6 @@
 # VitaScrob
 Logs tracks to scrobbler.log file for use in qtscrob natively on the built in psvita music app
-
+I only tested this on firmware version 3.65 so idk if it works on other ones but yea
 # Installation
 Installation goes trough taihen plugin system
 1. Download the plugin
